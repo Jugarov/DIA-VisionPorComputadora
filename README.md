@@ -33,7 +33,7 @@ Tema central: features locales y geometría
 - RANSAC y homografía (proyecciones y registración)
 - Bag of Visual Words e Image Retrieval
 
-## Clase 4 — Redes convolucionales y entrenamiento (4h)
+## Clase 4 — Redes convolucionales y clasificación de imágenes (4h)
 Tema central: clasificación de imágenes con deep learning
 
 - Capas convolucionales y de pooling
